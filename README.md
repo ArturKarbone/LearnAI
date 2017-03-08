@@ -4,7 +4,7 @@
 ### Actions
 
 
-### Ideasa
+### Ideas
 
 
 
@@ -15,6 +15,10 @@
 
 ### OS
 
+
+### Talks
+
+ - [WHAT IS MACHINE LEARNING AND WHY SHOULD YOU CARE? by Antons Mislevics](https://1drv.ms/f/s!AMXSX3Q3cMlAjd41)
 
 
 ### Articles
