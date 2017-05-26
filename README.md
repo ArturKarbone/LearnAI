@@ -45,6 +45,8 @@
 
 ### Courses
 
+- [Practical Deep Learning for Coders](http://www.fast.ai/)
+
 #### Udacity
 
 - [Siraj Raval's Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
